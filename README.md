@@ -2,7 +2,9 @@
 
 I'm Laura, and I'm a Systems and Computing Engineering student at Universidad de los Andes.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Laurarestrepo03)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Laura's GitHub stats](https://github-readme-stats.vercel.app/api?username=Laurarestrepo03)](https://github.com/anuraghazra/github-readme-stats) -->
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Laurarestrepo03&layout=compact)
 
 <!-- Here are some ideas to get you started:
 
