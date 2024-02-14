@@ -13,13 +13,15 @@ I'm Laura, and I'm a Systems and Computing Engineering student at Universidad de
   <code><img height="30" alt="nest" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/nestjs_logo_icon_168087.png"></code>
   <code><img height="30" alt="unity" src="https://i.redd.it/tu3gt6ysfxq71.png"></code>
   <code><img height="30" alt="c#" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_C_sharp.svg/1820px-Logo_C_sharp.svg.png"></code>
+  <!-- <code><img height="30" alt="swift" src="https://i.pinimg.com/originals/8f/50/63/8f50630ae0e1775196e4c270c573ce67.png"></code> -->
 </p>
-<!-- <code><img height="30" alt="swift" src="https://i.pinimg.com/originals/8f/50/63/8f50630ae0e1775196e4c270c573ce67.png"></code> -->
+
 
 <br>
 
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Laurarestrepo03&layout=compact) -->
-[![Laura's GitHub stats](https://github-readme-stats.vercel.app/api?username=Laurarestrepo03)](https://github.com/anuraghazra/github-readme-stats) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Laurarestrepo03&layout=compact)
+<br>
+<!-- [![Laura's GitHub stats](https://github-readme-stats.vercel.app/api?username=Laurarestrepo03)](https://github.com/anuraghazra/github-readme-stats) -->
 
 
 <!-- Here are some ideas to get you started:
