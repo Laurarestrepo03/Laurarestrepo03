@@ -16,11 +16,13 @@ I'm Laura, and I'm a Systems and Computing Engineering student at Universidad de
   <!-- <code><img height="30" alt="swift" src="https://i.pinimg.com/originals/8f/50/63/8f50630ae0e1775196e4c270c573ce67.png"></code> -->
 </p>
 
-
 <br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Laurarestrepo03&layout=compact)
-<br>
+<div >
+  <img alt="Laura's GitHub Stats" height="150"  src="https://github-readme-stats.vercel.app/api?username=Laurarestrepo03&show_icons=true">
+  <img alt="Laura's Top Languages" height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Laurarestrepo03&layout=compact">
+</div>
+
 <!-- [![Laura's GitHub stats](https://github-readme-stats.vercel.app/api?username=Laurarestrepo03)](https://github.com/anuraghazra/github-readme-stats) -->
 
 
