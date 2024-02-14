@@ -11,6 +11,7 @@ I'm Laura, and I'm a Systems and Computing Engineering student at Universidad de
   <code><img height="30" alt="typescript" src="https://static-00.iconduck.com/assets.00/typescript-icon-icon-1024x1024-vh3pfez8.png"></code>
   <code><img height="30" alt="react" src="https://cdn.worldvectorlogo.com/logos/react-1.svg"></code>
   <code><img height="30" alt="nest" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/nestjs_logo_icon_168087.png"></code>
+  <code><img height="30" alt="unity" src="https://i.redd.it/tu3gt6ysfxq71.png"></code>
   <code><img height="30" alt="c#" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_C_sharp.svg/1820px-Logo_C_sharp.svg.png"></code>
 </p>
 <!-- <code><img height="30" alt="swift" src="https://i.pinimg.com/originals/8f/50/63/8f50630ae0e1775196e4c270c573ce67.png"></code> -->
