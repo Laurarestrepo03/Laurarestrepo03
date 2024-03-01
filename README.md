@@ -2,7 +2,9 @@
 
 I'm Laura, and here's some info. about me: 
 - 🐐 I'm a Systems and Computing Engineering student at Universidad de los Andes. 
-- 🐍 I've worked as an Introduction to Programming (using Python) tutor.
+- 🐍 I've been an Introduction to Programming (using Python) tutor.
+- 🖥️ I'm planning to get an M.S. in SW development.
+- 🎮 I'm planning to get an M.S. in videogame development.
 
 I have worked with the following languages and tools: 
 
