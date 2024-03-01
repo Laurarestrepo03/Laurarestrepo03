@@ -10,6 +10,7 @@ I'm Laura, and I'm a Systems and Computing Engineering student at Universidad de
   <img height="30" alt="javascript" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/768px-JavaScript-logo.png">
   <img height="30" alt="typescript" src="https://static-00.iconduck.com/assets.00/typescript-icon-icon-1024x1024-vh3pfez8.png">
   <img height="30" alt="react" src="https://cdn.worldvectorlogo.com/logos/react-1.svg">
+  <img height="30" alt="postman" src="https://seeklogo.com/images/P/postman-logo-0087CA0D15-seeklogo.com.png">
   <img height="30" alt="nest" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/nestjs_logo_icon_168087.png">
   <img height="30" alt="oracle" src="https://github.com/Laurarestrepo03/Laurarestrepo03/assets/69609680/7e45edaa-ae51-410e-a9b5-fe11c98af9d2">
   <img height="30" alt="mongo-db" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mongodb_original_wordmark_logo_icon_146425.png">
