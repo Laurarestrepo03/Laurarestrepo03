@@ -6,7 +6,7 @@ I'm Laura, and here's some info. about me:
 <!-- - 🖥️ I'm planning to get an M.S. in SW development.
 - 🎮 I'm planning to get an M.S. in videogame development. -->
 
-I am familiar with the following languages and tools: 
+I have used the following languages and tools: 
 
 <p>
   <img height="30" alt="python" src="https://github.com/Laurarestrepo03/Laurarestrepo03/assets/69609680/333b4ca7-68c6-40ad-832b-ef383deef0f8">
