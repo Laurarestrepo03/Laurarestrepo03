@@ -15,7 +15,6 @@ I'm Laura, and I'm a Systems and Computing Engineering student at Universidad de
   <img height="30" alt="oracle" src="https://github.com/Laurarestrepo03/Laurarestrepo03/assets/69609680/7e45edaa-ae51-410e-a9b5-fe11c98af9d2">
   <img height="30" alt="mongo-db" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mongodb_original_wordmark_logo_icon_146425.png">
   <img height="30" alt="springboot" src="https://dz2cdn1.dzone.com/storage/temp/12434118-spring-boot-logo.png">
-  <img height="30" alt="thymeleaf" src="https://www.thymeleaf.org/images/thymeleaf.png">
   <img height="30" alt="unity" src="https://i.redd.it/tu3gt6ysfxq71.png">
   <img height="30" alt="c#" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_C_sharp.svg/1820px-Logo_C_sharp.svg.png">
   <img height="30" alt="swift" src="https://i.pinimg.com/originals/8f/50/63/8f50630ae0e1775196e4c270c573ce67.png">
