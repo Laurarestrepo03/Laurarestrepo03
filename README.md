@@ -1,6 +1,10 @@
 ### Hi there 👋
 
-I'm Laura, and I'm a Systems and Computing Engineering student at Universidad de los Andes. I have worked with the following languages and tools: 
+I'm Laura, and here's some info. about me: 
+- 🐐 I'm a Systems and Computing Engineering student at Universidad de los Andes. 
+- 🐍 I've worked as an Introduction to Programming (using Python) tutor.
+
+I have worked with the following languages and tools: 
 
 <p>
   <img height="30" alt="python" src="https://github.com/Laurarestrepo03/Laurarestrepo03/assets/69609680/333b4ca7-68c6-40ad-832b-ef383deef0f8">
