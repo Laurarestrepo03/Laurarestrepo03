@@ -5,8 +5,6 @@ I'm Laura, and here's some info. about me:
 - 🐍 I've worked as an Introduction to Programming (using Python) tutor.
 - 🌱 I’m currently learning **Swift**.
 - 📫 How to reach me: l.restrepop@uniandes.edu.co
-<!-- - 🖥️ I'm planning to get an M.S. in SW development.
-- 🎮 I'm planning to get an M.S. in videogame development. -->
 
 I have used the following languages and tools: 
 
@@ -35,9 +33,6 @@ I have used the following languages and tools:
   <img alt="Laura's GitHub Stats" height="150" src="https://github-readme-stats.vercel.app/api?username=Laurarestrepo03&show_icons=true&theme=transparent">
   <img alt="Laura's Top Languages" height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Laurarestrepo03&layout=compact&theme=transparent">
 </div>
-
-<!-- [![Laura's GitHub stats](https://github-readme-stats.vercel.app/api?username=Laurarestrepo03)](https://github.com/anuraghazra/github-readme-stats) -->
-
 
 <!-- Here are some ideas to get you started:
 
