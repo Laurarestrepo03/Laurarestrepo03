@@ -7,7 +7,7 @@ I'm Laura, and here's some info. about me:
 
 I have used the following languages and tools: 
 
-<p>
+<div>
   <img height="30" alt="python" title="Python" src="https://github.com/Laurarestrepo03/Laurarestrepo03/assets/69609680/333b4ca7-68c6-40ad-832b-ef383deef0f8">
   <img height="35" alt="java" title="Java" src="https://github.com/Laurarestrepo03/Laurarestrepo03/assets/69609680/d876da9b-854a-4696-b649-f560a58f2892">
   <img height="33" alt="html" title="HTML" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/800px-HTML5_logo_and_wordmark.svg.png">
@@ -26,7 +26,7 @@ I have used the following languages and tools:
   <img height="30" alt="unity" title="Unity" src="https://i.redd.it/tu3gt6ysfxq71.png">
   <img height="30" alt="c#" title="C#" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_C_sharp.svg/1820px-Logo_C_sharp.svg.png">
   <img height="30" alt="swift" title="Swift" src="https://i.pinimg.com/originals/8f/50/63/8f50630ae0e1775196e4c270c573ce67.png">
-</p>
+</div>
 
 <br>
 
