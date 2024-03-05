@@ -18,6 +18,7 @@ I have used the following languages and tools:
   <img height="30" alt="postman" src="https://seeklogo.com/images/P/postman-logo-0087CA0D15-seeklogo.com.png">
   <img height="30" alt="nest" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/nestjs_logo_icon_168087.png">
   <img height="30" alt="oracle" src="https://github.com/Laurarestrepo03/Laurarestrepo03/assets/69609680/7e45edaa-ae51-410e-a9b5-fe11c98af9d2">
+  <img height="30" alt="oracle-data-modeler" src="https://www.thatjeffsmith.com/wp-content/uploads/2014/12/data-modeler-200-2368789.png">
   <img height="30" alt="mongo-db" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mongodb_original_wordmark_logo_icon_146425.png">
   <img height="30" alt="springboot" src="https://dz2cdn1.dzone.com/storage/temp/12434118-spring-boot-logo.png">
   <img height="30" alt="thymeleaf" src="https://avatars.githubusercontent.com/u/1492367?s=200&v=4">
