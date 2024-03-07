@@ -25,8 +25,8 @@ I have used the following languages and tools:
   <img height="30" alt="figma" title="Figma" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/1667px-Figma-logo.svg.png">
   <img height="30" alt="unity" title="Unity" src="https://i.redd.it/tu3gt6ysfxq71.png">
   <img height="30" alt="c#" title="C#" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_C_sharp.svg/1820px-Logo_C_sharp.svg.png">
-  <img height="30" alt="jupyter" title="Jupyter" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png">
   <img height="30" alt="swift" title="Swift" src="https://i.pinimg.com/originals/8f/50/63/8f50630ae0e1775196e4c270c573ce67.png">
+  <img height="30" alt="jupyter" title="Jupyter" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png">
 </div>
 
 <br>
