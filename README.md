@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 I'm Laura, and here's some info. about me: 
-- 🐐 I'm a Systems and Computing Engineering student at Universidad de los Andes. 
+- 🐐 I'm a Systems and Computer Engineering student at Universidad de los Andes. 
 - 🌱 I’m currently learning **Swift**.
 - 📫 How to reach me: l.restrepop@uniandes.edu.co
 
