@@ -27,7 +27,7 @@ I have used the following languages and tools:
   <img height="30" alt="c#" title="C#" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_C_sharp.svg/1820px-Logo_C_sharp.svg.png">
   <img height="30" alt="swift" title="Swift" src="https://i.pinimg.com/originals/8f/50/63/8f50630ae0e1775196e4c270c573ce67.png">
   <img height="30" alt="jupyter" title="Jupyter" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png">
-  <!-- <img height="30" alt="pygame" title="Pygame" src="https://user-images.githubusercontent.com/46412508/170405943-e75458ec-6cb4-462e-91ba-43c861a3d6cf.png"> -->
+  <img height="30" alt="pygame" title="Pygame" src="https://user-images.githubusercontent.com/46412508/170405943-e75458ec-6cb4-462e-91ba-43c861a3d6cf.png">
 </div>
 
 <br>
