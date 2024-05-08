@@ -22,6 +22,7 @@ I have used the following languages and tools:
   <img height="30" alt="mongo-db" title="MongoDB" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mongodb_original_wordmark_logo_icon_146425.png">
   <img height="30" alt="springboot" title="Spring Boot" src="https://dz2cdn1.dzone.com/storage/temp/12434118-spring-boot-logo.png">
   <img height="30" alt="thymeleaf" title="Thymeleaf" src="https://avatars.githubusercontent.com/u/1492367?s=200&v=4">
+  <img height="30" alt="cypress" title="Cypress" src="https://docs.cypress.io/img/logo/cypress-logo-circle-dark.png">
   <img height="30" alt="figma" title="Figma" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/1667px-Figma-logo.svg.png">
   <img height="30" alt="unity" title="Unity" src="https://i.redd.it/tu3gt6ysfxq71.png">
   <img height="30" alt="c#" title="C#" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_C_sharp.svg/1820px-Logo_C_sharp.svg.png">
