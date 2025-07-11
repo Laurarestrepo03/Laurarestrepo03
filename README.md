@@ -13,9 +13,9 @@ I have used the following languages and tools:
   <img height="33" alt="html" title="HTML" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/800px-HTML5_logo_and_wordmark.svg.png">
   <img height="33" alt="css" title="CSS" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/340px-CSS3_logo_and_wordmark.svg.png">
   <img height="30" alt="javascript" title="JavaScript" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/768px-JavaScript-logo.png">
-  <img height="30" alt="typescript" title="TypeScript" src="https://static-00.iconduck.com/assets.00/typescript-icon-icon-1024x1024-vh3pfez8.png">
+  <img height="30" alt="typescript" title="TypeScript" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png">
   <img height="30" alt="react" title="React" src="https://cdn.worldvectorlogo.com/logos/react-1.svg">
-  <img height="30" alt="postman" title="Postman" src="https://seeklogo.com/images/P/postman-logo-0087CA0D15-seeklogo.com.png">
+  <img height="30" alt="postman" title="Postman" src="https://kinlane-productions2.s3.amazonaws.com/postman/logo-glyph.png">
   <img height="30" alt="nest" title="Nest" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/nestjs_logo_icon_168087.png">
   <img height="30" alt="oracle" title="Oracle" src="https://github.com/Laurarestrepo03/Laurarestrepo03/assets/69609680/7e45edaa-ae51-410e-a9b5-fe11c98af9d2">
   <img height="30" alt="oracle-data-modeler" title="Oracle Data Modeler" src="https://www.thatjeffsmith.com/wp-content/uploads/2014/12/data-modeler-200-2368789.png">
