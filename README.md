@@ -2,7 +2,7 @@
 
 I'm Laura, and here's some info. about me: 
 - 🐐 I'm a Systems and Computer Engineer from Universidad de los Andes.
-- 🌱 I’m currently working on getting an MS in Software Engineering..
+- 🌱 I’m currently working on getting an MS in Software Engineering.
 - 📫 How to reach me: l.restrepop@uniandes.edu.co
 
 I have used the following languages and tools: 
