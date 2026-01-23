@@ -8,7 +8,8 @@ I'm Laura, and here's some info. about me:
 I have used the following languages and tools: 
 
 <div>
-  <img src="https://skillicons.dev/icons?i=python,java,html,css,javascript,typescript,react,postman,nest,mongodb,spring,cypress,figma,unity,cs,swift,docker,angular,aws&perline=10">
+  <img height="35" src="https://skillicons.dev/icons?i=python,java,html,css,javascript,typescript,react,postman,nest,mongodb,spring,cypress,figma,unity,cs"> <br>
+  <img height="35" src="https://skillicons.dev/icons?i=swift,docker,angular,aws">
   <!-- Firebase? -->
 </div>
 
