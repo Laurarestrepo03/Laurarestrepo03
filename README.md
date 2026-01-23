@@ -8,27 +8,7 @@ I'm Laura, and here's some info. about me:
 I have used the following languages and tools: 
 
 <div>
-  <img height="30" alt="python" title="Python" src="https://github.com/Laurarestrepo03/Laurarestrepo03/assets/69609680/333b4ca7-68c6-40ad-832b-ef383deef0f8">
-  <img height="35" alt="java" title="Java" src="https://github.com/Laurarestrepo03/Laurarestrepo03/assets/69609680/d876da9b-854a-4696-b649-f560a58f2892">
-  <img height="33" alt="html" title="HTML" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/800px-HTML5_logo_and_wordmark.svg.png">
-  <img height="33" alt="css" title="CSS" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/340px-CSS3_logo_and_wordmark.svg.png">
-  <img height="30" alt="javascript" title="JavaScript" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/768px-JavaScript-logo.png">
-  <img height="30" alt="typescript" title="TypeScript" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png">
-  <img height="30" alt="react" title="React" src="https://cdn.worldvectorlogo.com/logos/react-1.svg">
-  <img height="30" alt="postman" title="Postman" src="https://kinlane-productions2.s3.amazonaws.com/postman/logo-glyph.png">
-  <img height="30" alt="nest" title="Nest" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/nestjs_logo_icon_168087.png">
-  <img height="30" alt="oracle" title="Oracle" src="https://github.com/Laurarestrepo03/Laurarestrepo03/assets/69609680/7e45edaa-ae51-410e-a9b5-fe11c98af9d2">
-  <img height="30" alt="oracle-data-modeler" title="Oracle Data Modeler" src="https://www.thatjeffsmith.com/wp-content/uploads/2014/12/data-modeler-200-2368789.png">
-  <img height="30" alt="mongo-db" title="MongoDB" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mongodb_original_wordmark_logo_icon_146425.png">
-  <img height="30" alt="springboot" title="Spring Boot" src="https://dz2cdn1.dzone.com/storage/temp/12434118-spring-boot-logo.png">
-  <img height="30" alt="thymeleaf" title="Thymeleaf" src="https://avatars.githubusercontent.com/u/1492367?s=200&v=4">
-  <img height="30" alt="cypress" title="Cypress" src="https://docs.cypress.io/img/logo/cypress-logo-circle-dark.png">
-  <img height="30" alt="figma" title="Figma" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/1667px-Figma-logo.svg.png">
-  <img height="30" alt="unity" title="Unity" src="https://i.redd.it/tu3gt6ysfxq71.png">
-  <img height="30" alt="c#" title="C#" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_C_sharp.svg/1820px-Logo_C_sharp.svg.png">
-  <img height="30" alt="swift" title="Swift" src="https://i.pinimg.com/originals/8f/50/63/8f50630ae0e1775196e4c270c573ce67.png">
-  <img height="30" alt="jupyter" title="Jupyter" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png">
-  <img height="30" alt="pygame" title="Pygame" src="https://user-images.githubusercontent.com/46412508/170405943-e75458ec-6cb4-462e-91ba-43c861a3d6cf.png">
+  <img src="https://skillicons.dev/icons?i=python,java,html,css,javascript,typescript,react,postman,nest,mongodb,spring,cypress,figma,unity,cs,swift,docker,angular,aws&perline=10">
   <!-- Firebase? -->
 </div>
 
