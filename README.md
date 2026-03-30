@@ -15,10 +15,12 @@ I have used the following languages and tools:
 
 <br>
 
+<!--
 <div>
   <img alt="Laura's GitHub Stats" height="150" src="https://github-readme-stats.vercel.app/api?username=Laurarestrepo03&show_icons=true&theme=transparent">
   <img alt="Laura's Top Languages" height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Laurarestrepo03&layout=compact&theme=transparent">
 </div>
+-->
 
 <!-- Here are some ideas to get you started:
 
