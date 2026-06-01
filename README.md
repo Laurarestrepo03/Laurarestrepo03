@@ -9,7 +9,7 @@ I have used the following languages and tools:
 
 <div>
   <img height="35" src="https://skillicons.dev/icons?i=python,java,html,css,javascript,typescript,react,postman,nest,mongodb,spring,cypress,figma,unity,cs"> <br>
-  <img height="35" src="https://skillicons.dev/icons?i=swift,docker,angular,aws">
+  <img height="35" src="https://skillicons.dev/icons?i=swift,docker,angular,aws,kotlin">
   <!-- Firebase? -->
 </div>
 
